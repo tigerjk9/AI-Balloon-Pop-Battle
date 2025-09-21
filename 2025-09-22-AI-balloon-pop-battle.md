@@ -44,6 +44,6 @@ tags: [javascript, mediapipe, game, interactive]
 
 ---
 
-**👉 게임 바로가기[https://ai-balloon-pop-battle.netlify.app/](https://ai-balloon-pop-battle.netlify.app/)**
+**👉 게임 바로가기: [https://ai-balloon-pop-battle.netlify.app/](https://ai-balloon-pop-battle.netlify.app/)**
 
 ![AI 풍선 터뜨리기](/assets/AI-Balloon-Pop-Battle.jpg)
